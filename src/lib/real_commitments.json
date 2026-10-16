@@ -1,0 +1,574 @@
+[
+  {
+    "id": "c_1",
+    "owner": "p1",
+    "o": "O1",
+    "kr": null,
+    "text": "Accelerate enterprise revenue growth in financial services",
+    "strategic_alignment": "Drives Lamatic's vision, market traction, and financial health to become the leading reliable agentic platform for enterprise finance.",
+    "m": {
+      "base": 2000000,
+      "cur": 2000000,
+      "target": 4000000,
+      "unit": "USD"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Drives Lamatic's vision, market traction, and financial health to become the leading reliable agentic platform for enterprise finance."
+  },
+  {
+    "id": "c_2",
+    "owner": "p1",
+    "o": "O2",
+    "kr": null,
+    "text": "Strengthen company culture and leadership capacity",
+    "strategic_alignment": "Drives Lamatic's vision, market traction, and financial health to become the leading reliable agentic platform for enterprise finance.",
+    "m": {
+      "base": 30,
+      "cur": 30,
+      "target": 50,
+      "unit": "points"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Drives Lamatic's vision, market traction, and financial health to become the leading reliable agentic platform for enterprise finance."
+  },
+  {
+    "id": "c_3",
+    "owner": "p2",
+    "o": "O1",
+    "kr": null,
+    "text": "Deliver a highly reliable, low‑latency AI platform",
+    "strategic_alignment": "Ensures the platform’s technical excellence, scalability, and engineering velocity to deliver reliable AI agents at enterprise scale.",
+    "m": {
+      "base": 800,
+      "cur": 800,
+      "target": 400,
+      "unit": "ms"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Ensures the platform’s technical excellence, scalability, and engineering velocity to deliver reliable AI agents at enterprise scale."
+  },
+  {
+    "id": "c_4",
+    "owner": "p2",
+    "o": "O2",
+    "kr": null,
+    "text": "Scale engineering productivity and talent",
+    "strategic_alignment": "Ensures the platform’s technical excellence, scalability, and engineering velocity to deliver reliable AI agents at enterprise scale.",
+    "m": {
+      "base": 1,
+      "cur": 1,
+      "target": 2,
+      "unit": "releases"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Ensures the platform’s technical excellence, scalability, and engineering velocity to deliver reliable AI agents at enterprise scale."
+  },
+  {
+    "id": "c_5",
+    "owner": "p3",
+    "o": "O1",
+    "kr": null,
+    "text": "Optimize AI runtime performance and cost",
+    "strategic_alignment": "Builds the core AI runtime that powers reliable, cost‑effective agentic applications for Lamatic’s customers.",
+    "m": {
+      "base": 0.02,
+      "cur": 0.02,
+      "target": 0.008,
+      "unit": "USD"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Builds the core AI runtime that powers reliable, cost‑effective agentic applications for Lamatic’s customers."
+  },
+  {
+    "id": "c_6",
+    "owner": "p3",
+    "o": "O2",
+    "kr": null,
+    "text": "Enhance reliability of AI workloads",
+    "strategic_alignment": "Builds the core AI runtime that powers reliable, cost‑effective agentic applications for Lamatic’s customers.",
+    "m": {
+      "base": 5,
+      "cur": 5,
+      "target": 1,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Builds the core AI runtime that powers reliable, cost‑effective agentic applications for Lamatic’s customers."
+  },
+  {
+    "id": "c_7",
+    "owner": "p4",
+    "o": "O1",
+    "kr": null,
+    "text": "Improve platform stability and developer experience",
+    "strategic_alignment": "Shapes the platform’s core features and stability, enabling fast, dependable delivery of agentic solutions.",
+    "m": {
+      "base": 12,
+      "cur": 12,
+      "target": 3,
+      "unit": "incidents"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Shapes the platform’s core features and stability, enabling fast, dependable delivery of agentic solutions."
+  },
+  {
+    "id": "c_8",
+    "owner": "p4",
+    "o": "O2",
+    "kr": null,
+    "text": "Accelerate feature delivery",
+    "strategic_alignment": "Shapes the platform’s core features and stability, enabling fast, dependable delivery of agentic solutions.",
+    "m": {
+      "base": 45,
+      "cur": 45,
+      "target": 20,
+      "unit": "days"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Shapes the platform’s core features and stability, enabling fast, dependable delivery of agentic solutions."
+  },
+  {
+    "id": "c_9",
+    "owner": "p5",
+    "o": "O1",
+    "kr": null,
+    "text": "Drive customer AI solution adoption and impact",
+    "strategic_alignment": "Transforms customer requirements into production‑ready AI agents that drive measurable business outcomes.",
+    "m": {
+      "base": 15,
+      "cur": 15,
+      "target": 30,
+      "unit": "agents"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Transforms customer requirements into production‑ready AI agents that drive measurable business outcomes."
+  },
+  {
+    "id": "c_10",
+    "owner": "p5",
+    "o": "O2",
+    "kr": null,
+    "text": "Shorten delivery cycle for AI workflows",
+    "strategic_alignment": "Transforms customer requirements into production‑ready AI agents that drive measurable business outcomes.",
+    "m": {
+      "base": 30,
+      "cur": 30,
+      "target": 12,
+      "unit": "days"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Transforms customer requirements into production‑ready AI agents that drive measurable business outcomes."
+  },
+  {
+    "id": "c_11",
+    "owner": "p6",
+    "o": "O1",
+    "kr": null,
+    "text": "Expand reusable AI workflow library to accelerate sales",
+    "strategic_alignment": "Creates reusable AI workflow assets and mentors the Applied AI team to scale high‑impact customer deployments.",
+    "m": {
+      "base": 5,
+      "cur": 5,
+      "target": 15,
+      "unit": "templates"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Creates reusable AI workflow assets and mentors the Applied AI team to scale high‑impact customer deployments."
+  },
+  {
+    "id": "c_12",
+    "owner": "p6",
+    "o": "O2",
+    "kr": null,
+    "text": "Mentor and scale Applied AI team performance",
+    "strategic_alignment": "Creates reusable AI workflow assets and mentors the Applied AI team to scale high‑impact customer deployments.",
+    "m": {
+      "base": 75,
+      "cur": 75,
+      "target": 90,
+      "unit": "points"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Creates reusable AI workflow assets and mentors the Applied AI team to scale high‑impact customer deployments."
+  },
+  {
+    "id": "c_13",
+    "owner": "p7",
+    "o": "O1",
+    "kr": null,
+    "text": "Increase production AI product output",
+    "strategic_alignment": "Delivers AI‑powered SaaS products and ensures high‑quality, reusable solutions for Lamatic’s customers.",
+    "m": {
+      "base": 6,
+      "cur": 6,
+      "target": 12,
+      "unit": "releases"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Delivers AI‑powered SaaS products and ensures high‑quality, reusable solutions for Lamatic’s customers."
+  },
+  {
+    "id": "c_14",
+    "owner": "p7",
+    "o": "O2",
+    "kr": null,
+    "text": "Improve solution quality and reusability",
+    "strategic_alignment": "Delivers AI‑powered SaaS products and ensures high‑quality, reusable solutions for Lamatic’s customers.",
+    "m": {
+      "base": 4,
+      "cur": 4,
+      "target": 1,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Delivers AI‑powered SaaS products and ensures high‑quality, reusable solutions for Lamatic’s customers."
+  },
+  {
+    "id": "c_15",
+    "owner": "p8",
+    "o": "O1",
+    "kr": null,
+    "text": "Elevate user experience and adoption of platform",
+    "strategic_alignment": "Crafts intuitive, high‑impact user experiences that lower friction and boost adoption of Lamatic’s agentic platform.",
+    "m": {
+      "base": 40,
+      "cur": 40,
+      "target": 65,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Crafts intuitive, high‑impact user experiences that lower friction and boost adoption of Lamatic’s agentic platform."
+  },
+  {
+    "id": "c_16",
+    "owner": "p8",
+    "o": "O2",
+    "kr": null,
+    "text": "Strengthen design system consistency",
+    "strategic_alignment": "Crafts intuitive, high‑impact user experiences that lower friction and boost adoption of Lamatic’s agentic platform.",
+    "m": {
+      "base": 30,
+      "cur": 30,
+      "target": 70,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Crafts intuitive, high‑impact user experiences that lower friction and boost adoption of Lamatic’s agentic platform."
+  },
+  {
+    "id": "c_17",
+    "owner": "p9",
+    "o": "O1",
+    "kr": null,
+    "text": "Build internal automation to boost sales efficiency",
+    "strategic_alignment": "Builds internal automation and AI tools that amplify sales efficiency and internal productivity.",
+    "m": {
+      "base": 20,
+      "cur": 20,
+      "target": 50,
+      "unit": "leads"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Builds internal automation and AI tools that amplify sales efficiency and internal productivity."
+  },
+  {
+    "id": "c_18",
+    "owner": "p9",
+    "o": "O2",
+    "kr": null,
+    "text": "Deliver high‑impact internal tools",
+    "strategic_alignment": "Builds internal automation and AI tools that amplify sales efficiency and internal productivity.",
+    "m": {
+      "base": 0,
+      "cur": 0,
+      "target": 80,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Builds internal automation and AI tools that amplify sales efficiency and internal productivity."
+  },
+  {
+    "id": "c_19",
+    "owner": "p10",
+    "o": "O1",
+    "kr": null,
+    "text": "Contribute to core platform stability",
+    "strategic_alignment": "Supports platform stability and tooling, accelerating developer productivity through bug fixes and test coverage.",
+    "m": {
+      "base": 0,
+      "cur": 0,
+      "target": 30,
+      "unit": "bugs"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Supports platform stability and tooling, accelerating developer productivity through bug fixes and test coverage."
+  },
+  {
+    "id": "c_20",
+    "owner": "p10",
+    "o": "O2",
+    "kr": null,
+    "text": "Deliver a scoped internal developer tool",
+    "strategic_alignment": "Supports platform stability and tooling, accelerating developer productivity through bug fixes and test coverage.",
+    "m": {
+      "base": 0,
+      "cur": 0,
+      "target": 150,
+      "unit": "users"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Supports platform stability and tooling, accelerating developer productivity through bug fixes and test coverage."
+  },
+  {
+    "id": "c_21",
+    "owner": "p11",
+    "o": "O1",
+    "kr": null,
+    "text": "Improve customer issue resolution efficiency",
+    "strategic_alignment": "Ensures customers resolve platform issues quickly, feeding reliability insights back into product development.",
+    "m": {
+      "base": 4,
+      "cur": 4,
+      "target": 1,
+      "unit": "hours"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Ensures customers resolve platform issues quickly, feeding reliability insights back into product development."
+  },
+  {
+    "id": "c_22",
+    "owner": "p11",
+    "o": "O2",
+    "kr": null,
+    "text": "Enhance platform reliability through support insights",
+    "strategic_alignment": "Ensures customers resolve platform issues quickly, feeding reliability insights back into product development.",
+    "m": {
+      "base": 0,
+      "cur": 0,
+      "target": 15,
+      "unit": "bugs"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Ensures customers resolve platform issues quickly, feeding reliability insights back into product development."
+  },
+  {
+    "id": "c_23",
+    "owner": "p12",
+    "o": "O1",
+    "kr": null,
+    "text": "Grow pipeline and booked revenue",
+    "strategic_alignment": "Orchestrates go‑to‑market operations, automation, and cross‑functional projects to accelerate revenue and operational efficiency.",
+    "m": {
+      "base": 200,
+      "cur": 200,
+      "target": 500,
+      "unit": "leads"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Orchestrates go‑to‑market operations, automation, and cross‑functional projects to accelerate revenue and operational efficiency."
+  },
+  {
+    "id": "c_24",
+    "owner": "p12",
+    "o": "O2",
+    "kr": null,
+    "text": "Drive operational efficiency via automation",
+    "strategic_alignment": "Orchestrates go‑to‑market operations, automation, and cross‑functional projects to accelerate revenue and operational efficiency.",
+    "m": {
+      "base": 0,
+      "cur": 0,
+      "target": 400,
+      "unit": "hours"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Orchestrates go‑to‑market operations, automation, and cross‑functional projects to accelerate revenue and operational efficiency."
+  },
+  {
+    "id": "c_25",
+    "owner": "p13",
+    "o": "O1",
+    "kr": null,
+    "text": "Improve delivery performance across customer engagements",
+    "strategic_alignment": "Provides disciplined program management to ensure timely, risk‑aware delivery of customer engagements and internal initiatives.",
+    "m": {
+      "base": 70,
+      "cur": 70,
+      "target": 95,
+      "unit": "percent"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Provides disciplined program management to ensure timely, risk‑aware delivery of customer engagements and internal initiatives."
+  },
+  {
+    "id": "c_26",
+    "owner": "p13",
+    "o": "O2",
+    "kr": null,
+    "text": "Strengthen cross‑functional initiative execution",
+    "strategic_alignment": "Provides disciplined program management to ensure timely, risk‑aware delivery of customer engagements and internal initiatives.",
+    "m": {
+      "base": 30,
+      "cur": 30,
+      "target": 10,
+      "unit": "days"
+    },
+    "due": "2026-12-31",
+    "conf": 70,
+    "trend": [
+      70
+    ],
+    "confirmed": true,
+    "draft": false,
+    "note": "Provides disciplined program management to ensure timely, risk‑aware delivery of customer engagements and internal initiatives."
+  }
+]
